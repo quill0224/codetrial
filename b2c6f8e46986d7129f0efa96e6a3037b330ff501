@@ -17,5 +17,7 @@
   "review_fingerprint": "6a73f93a20c05ddb3b6d4209ec66fb8311399cd10cde9ae22e87637c56c68434",
   "schema_version": 1,
   "change_id": "I096509c68130bc94b049c0e1c9e369f648326225",
-  "workbench_started": true
+  "workbench_started": true,
+  "signature": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgDIG9JewDbB63NdyXzX8aVTzpvy\nAGujg+cU6w8RuY77wAAAAQY29kZXRyaWFsLXJldmlldwAAAAAAAAAGc2hhNTEyAAAAUwAA\nAAtzc2gtZWQyNTUxOQAAAEBugK8ijfs+5L+I4meEq/c+goSW7XY4+cvWl48bC8QsdkIRa5\n6n8yyBsPgUYv66Ug44nk3Av4cRXIPUlaLXNMQN\n-----END SSH SIGNATURE-----\n",
+  "key_fingerprint": "SHA256:GYBvYAYXeZ4uZTK5QoS7iHF6CSmnMuyPmWtJq9RfUgg"
 }
